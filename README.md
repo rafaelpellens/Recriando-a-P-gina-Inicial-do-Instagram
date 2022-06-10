@@ -1,1 +1,1 @@
-#Repositório para apresetação do projeto: Recriando a Página Inicial do Instagram.
+#Repositório para entrega do Desafio de Projeto: Recriando a Página Inicial do Instagram.
