@@ -1,2 +1,1 @@
-# Recriando-a-P-gina-Inicial-do-Instagram
-Recriando a Página Inicial do Instagram
+#Repositório para apresetação do projeto: Recriando a Página Inicial do Instagram.
